@@ -19,7 +19,9 @@
 
 ![alt text](img/image-26.png)
 - test avec la clé ticket en plus
+
 ![alt text](img/image-25.png)
 - réponse du site
+
 ![](img/image.png)
 - script pour la création des qr code
